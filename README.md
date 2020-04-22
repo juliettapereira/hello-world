@@ -1,2 +1,4 @@
 # hello-world
-Guide to create a repository
+
+My name is Julietta Pereira.
+I'm a happy student taking the IT 240 class.
